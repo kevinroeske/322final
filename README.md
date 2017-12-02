@@ -1,7 +1,7 @@
 Readme file for final project
 
 Author=Kevin Roeske
-github=https://github.com/kevinroeske/final-project.git
+github=https://github.com/kevinroeske/322final.git
 
 Description:
 
